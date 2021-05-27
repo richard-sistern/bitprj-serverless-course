@@ -2,6 +2,8 @@
 
 ## About Me
 
+Hi there!  I'm Richard. 👋
+
 ## The Premise
 
 ## Tools used
